@@ -1,0 +1,40 @@
+body{
+	background: #283747;
+
+}
+
+h1{
+	font-family: 'Merriweather' serif;
+	text-align: center;
+	color: #ffffff;
+}
+
+ol{
+	color: #ffffff;
+	font-family: 'ubuntu' sans-serif;
+}
+
+li{
+	font-family: 'ubuntu' sans-serif;
+	color: #ffffff;
+	padding: 30px 0 30px 0;
+	font-size: 18px;
+}
+
+p{
+ font-family: 'Merriweather', serif;
+ text-align: center;
+ color: #283747;
+ font-size: 22px;
+ padding: 10px 0 10px 0;
+
+}
+
+.box{
+	background-color: #ffffff;
+	height: 350px;
+	width: cover;
+	margin: 0;
+	padding: 20px 0 20px 0;
+
+}
